@@ -24,7 +24,7 @@ nohup ASPNETCORE_URLS=http://0.0.0.0:5000 dotnet MyApiProject.dll
 
 Check:
 ```
-px aux | grep dotnet
+ps aux | grep dotnet
 ```
 
 Stop:
