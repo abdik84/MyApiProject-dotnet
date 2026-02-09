@@ -3,7 +3,9 @@
 Simple ASP.NET Core application demonstrating:
 
 ### REST API endpoint
-`http://localhost:5051/api/ping`
+```
+http://localhost:5051/api/ping
+```
 
 ### WebSocket Test
 Copy and paste following code in browser console.
